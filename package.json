@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheesecake2020/my-node-app.git"
+  },
+  "author": "Nina Harada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheesecake2020/my-node-app/issues"
+  },
+  "homepage": "https://github.com/cheesecake2020/my-node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
